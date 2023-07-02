@@ -47,11 +47,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        YeiBlock is an AI and blockchain-powered platform that empowers individuals 
+        and businesses to drive innovation and growth. Our transformative education and 
+        research tools provide valuable knowledge and insights. We offer cryptocurrency 
+        arbitrage and investment tools for confident participation in the crypto market. 
+        Through optimization algorithms and personalized marketing strategies, we enhance 
+        operations and secure financial transactions. Real-time data visualization empowers 
+        informed decision-making. YeiBlock aims to create sustainable and scalable economies 
+        through tokenization. Join us to unlock the limitless possibilities of AI and 
+        blockchain, and revolutionize the way you learn, invest, and thrive!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
