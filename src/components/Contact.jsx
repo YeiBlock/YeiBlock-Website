@@ -42,7 +42,7 @@ const Contact = () => {
           to_email: "management@yeiblock.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'g9LYpsKuqOK3BLR9S'
       )
       .then(
         () => {
